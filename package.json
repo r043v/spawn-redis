@@ -1,0 +1,27 @@
+{
+  "name": "spawn-redis",
+  "version": "1.0.2",
+  "description": "redis db spawn'r",
+  "main": "redisdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r043v/spawn-redis.git"
+  },
+  "keywords": [
+    "redis",
+    "server"
+  ],
+  "author": "noferi mickaël",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/r043v/spawn-redis/issues"
+  },
+  "homepage": "https://github.com/r043v/spawn-redis#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "redis": "^2.8.0"
+  }
+}
